@@ -1,0 +1,8 @@
+git clone https://github.com/renato-mauro/TesteArquivos2.git
+trabalhei
+git add *
+git commit -m "Mensagem sobre a versão"
+git push
+
+
+
